@@ -1,0 +1,116 @@
+# Title: HaGeZi's Apple Tracker - blocks built-in trackers from devices, apps, and OSes!
+# Description: Blocks the Apple native trackers baked into devices, services, and operating systems that quietly track what you do.
+# Homepage: https://github.com/hagezi/dns-blocklists
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Issues: https://github.com/hagezi/dns-blocklists/issues
+# Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
+# Expires: 8 hours
+# Last modified: 13 Nov 2026 22:28 UTC
+# Version: 2026.1113.2228.18
+# Syntax: Domains Wildcard (without subdomains)
+# Number of entries: 104
+#
+DOMAIN-WILDCARD,*.cstat.g.aaplimg.com
+DOMAIN-WILDCARD,*.diagassets.g.aaplimg.com
+DOMAIN-WILDCARD,*.cdn-xp-ingest-ab.v.aaplimg.com
+DOMAIN-WILDCARD,*.iphonesubmissions.v.aaplimg.com
+DOMAIN-WILDCARD,*.prod-app-analytics-event-gateway.v.aaplimg.com
+DOMAIN-WILDCARD,*.prod-event-relay-api.v.aaplimg.com
+DOMAIN-WILDCARD,*.prod-event-relay-books-api.v.aaplimg.com
+DOMAIN-WILDCARD,*.prod-event-relay-notes-api.v.aaplimg.com
+DOMAIN-WILDCARD,*.prod-event-relay-sports-api.v.aaplimg.com
+DOMAIN-WILDCARD,*.prod-event-relay-stocks-api.v.aaplimg.com
+DOMAIN-WILDCARD,*.prod-event-relay-weather-api.v.aaplimg.com
+DOMAIN-WILDCARD,*.prod-iwork-events.v.aaplimg.com
+DOMAIN-WILDCARD,*.prod-news-notification-events.v.aaplimg.com
+DOMAIN-WILDCARD,*.securemetrics.v.aaplimg.com
+DOMAIN-WILDCARD,*.securemetrics-cn.v.aaplimg.com
+DOMAIN-WILDCARD,*.securemvt.v.aaplimg.com
+DOMAIN-WILDCARD,*.smoot-feedback.v.aaplimg.com
+DOMAIN-WILDCARD,*.supportmetrics.v.aaplimg.com
+DOMAIN-WILDCARD,*.xp.v.aaplimg.com
+DOMAIN-WILDCARD,*.diagnostics.apple.com.akadns.net
+DOMAIN-WILDCARD,*.iadsdk.apple.com.akadns.net
+DOMAIN-WILDCARD,*.idiagnostics.apple.com.akadns.net
+DOMAIN-WILDCARD,*.iphonesubmissions.apple.com.akadns.net
+DOMAIN-WILDCARD,*.radarsubmissions.apple.com.akadns.net
+DOMAIN-WILDCARD,*.partiality.itunes-apple.com.akadns.net
+DOMAIN-WILDCARD,*.searchads.lb-apple.com.akadns.net
+DOMAIN-WILDCARD,*.iad-apple.com.akadns.net
+DOMAIN-WILDCARD,*.aios-otel-collector.g.apple.com
+DOMAIN-WILDCARD,*.app-events.infoapps.apple.com
+DOMAIN-WILDCARD,*.partiality.itunes.apple.com
+DOMAIN-WILDCARD,*.msc-dct-prod.msc.apple.com
+DOMAIN-WILDCARD,*.fbs.smoot.apple.com
+DOMAIN-WILDCARD,*.ads.apple.com
+DOMAIN-WILDCARD,*.advertising.apple.com
+DOMAIN-WILDCARD,*.advp.apple.com
+DOMAIN-WILDCARD,*.api-adservices.apple.com
+DOMAIN-WILDCARD,*.books-analytics-events.apple.com
+DOMAIN-WILDCARD,*.cstat.apple.com
+DOMAIN-WILDCARD,*.cstat-origin.apple.com
+DOMAIN-WILDCARD,*.databeacon.apple.com
+DOMAIN-WILDCARD,*.datacollection.apple.com
+DOMAIN-WILDCARD,*.diagassets.apple.com
+DOMAIN-WILDCARD,*.diagnostics.apple.com
+DOMAIN-WILDCARD,*.experiments.apple.com
+DOMAIN-WILDCARD,*.freeform-events.apple.com
+DOMAIN-WILDCARD,*.graffiti-tags.apple.com
+DOMAIN-WILDCARD,*.iad.apple.com
+DOMAIN-WILDCARD,*.iadcontent.apple.com
+DOMAIN-WILDCARD,*.iadmoo.apple.com
+DOMAIN-WILDCARD,*.iadsdk.apple.com
+DOMAIN-WILDCARD,*.iadworkbench.apple.com
+DOMAIN-WILDCARD,*.idiagnostics.apple.com
+DOMAIN-WILDCARD,*.idiagnostics-mdn1.apple.com
+DOMAIN-WILDCARD,*.internalcheck.apple.com
+DOMAIN-WILDCARD,*.iphonesubmissions.apple.com
+DOMAIN-WILDCARD,*.iphonesubmissions-old.apple.com
+DOMAIN-WILDCARD,*.launch.apple.com
+DOMAIN-WILDCARD,*.metrics.apple.com
+DOMAIN-WILDCARD,*.news-app-events.apple.com
+DOMAIN-WILDCARD,*.news-events.apple.com
+DOMAIN-WILDCARD,*.news-notification-events.apple.com
+DOMAIN-WILDCARD,*.news-sports-events.apple.com
+DOMAIN-WILDCARD,*.notes-analytics-events.apple.com
+DOMAIN-WILDCARD,*.odin-signals.apple.com
+DOMAIN-WILDCARD,*.performance-partners.apple.com
+DOMAIN-WILDCARD,*.phonesubmissions.apple.com
+DOMAIN-WILDCARD,*.prd-usw2-requestattribution-iad.apple.com
+DOMAIN-WILDCARD,*.proxy-skadnetwork.apple.com
+DOMAIN-WILDCARD,*.radarsubmissions.apple.com
+DOMAIN-WILDCARD,*.searchads.apple.com
+DOMAIN-WILDCARD,*.securemetrics.apple.com
+DOMAIN-WILDCARD,*.securemvt.apple.com
+DOMAIN-WILDCARD,*.stocks-analytics-events.apple.com
+DOMAIN-WILDCARD,*.supportmetrics.apple.com
+DOMAIN-WILDCARD,*.weather-analytics-events.apple.com
+DOMAIN-WILDCARD,*.xp.apple.com
+DOMAIN-WILDCARD,*.xp-cdn.apple.com
+DOMAIN-WILDCARD,*.feedbackws.fe.apple-dns.cn
+DOMAIN-WILDCARD,*.feedbackws.fe.apple-dns.net
+DOMAIN-WILDCARD,*.feedbackws.fe2.apple-dns.net
+DOMAIN-WILDCARD,*.books-analytics-events.news.apple-dns.net
+DOMAIN-WILDCARD,*.notes-analytics-events.news.apple-dns.net
+DOMAIN-WILDCARD,*.stocks-analytics-events.news.apple-dns.net
+DOMAIN-WILDCARD,*.weather-analytics-events.news.apple-dns.net
+DOMAIN-WILDCARD,*.me.apple-dns.net
+DOMAIN-WILDCARD,*.cstat.cdn-apple.com
+DOMAIN-WILDCARD,*.securemetrics.apple.com.cn
+DOMAIN-WILDCARD,*.feedbackws.icloud.com.cn
+DOMAIN-WILDCARD,*.cdn-xp-ingest.edge.apple
+DOMAIN-WILDCARD,*.partiality.itunes.apple.com.edgekey.net
+DOMAIN-WILDCARD,*.experiments.apple.com.edgekey.net
+DOMAIN-WILDCARD,*.iadsdk.apple.com.edgekey.net
+DOMAIN-WILDCARD,*.xp.apple.com.edgekey.net
+DOMAIN-WILDCARD,*.cstat.apple.com.edgesuite.net
+DOMAIN-WILDCARD,*.searchads.apple.com.edgesuite.net
+DOMAIN-WILDCARD,*.acfeedbackws.icloud.com
+DOMAIN-WILDCARD,*.feedbackws.icloud.com
+DOMAIN-WILDCARD,*.metrics.icloud.com
+DOMAIN-WILDCARD,*.metrics.mzstatic.com
+DOMAIN-WILDCARD,*.marketing.services.apple
+DOMAIN-WILDCARD,*.beacon.shazam.com
+DOMAIN-WILDCARD,*.h4g3z1-native-apple.web.app
+DOMAIN-WILDCARD,*.applemediaservices.com
+DOMAIN-WILDCARD,*.qwapi.com
